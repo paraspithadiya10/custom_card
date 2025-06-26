@@ -10,7 +10,6 @@ class CustomCard {
     return Card.outlined(
       elevation: 4,
       child: ListTile(
-        subtitleTextStyle: TextStyle(fontStyle: FontStyle.italic),
         leading: Icon(leadingIcon, color: Colors.black),
         title: Text(title),
         subtitle: Text(subTitle),
