@@ -1,7 +1,7 @@
 name: custom_card
-description: "A new Flutter package project."
+description: "Customize Card Design specially For ListTile."
 version: 0.0.1
-homepage:
+homepage: https://github.com/paraspithadiya10/custom_card
 
 environment:
   sdk: ^3.8.1
