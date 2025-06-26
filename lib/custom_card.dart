@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class CustomCard {
-  show(
+  static show(
     IconData leadingIcon,
     String title,
     String subTitle,
